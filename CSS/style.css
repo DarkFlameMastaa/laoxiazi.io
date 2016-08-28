@@ -1,0 +1,19 @@
+html{
+	font-family: "微软雅黑";
+	height: 100%;
+	width: 100%;
+}
+#box{
+	margin:0 auto;
+	background: #bdbdbd;
+}
+#box li{
+	float: left;
+	border-right: 1px solid #c5cae9;
+	border-bottom: 1px solid #c5cae9;
+}
+
+
+#box .hideborder{
+	border: none;
+}
